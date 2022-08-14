@@ -4,7 +4,7 @@
 
 安装步骤：
 
-首先，看这个教程https://platinmods.com/threads/how-to-install-magisk-on-android-emulators-easy-android-7-and-above.146149/，我在这个教程的指引下成功在雷电9上安装了Magisk。
+首先，看这个教程： https://platinmods.com/threads/how-to-install-magisk-on-android-emulators-easy-android-7-and-above.146149/ ， 我在这个教程的指引下成功在雷电9上安装了Magisk。
 
 此时，必须关掉模拟器自带的root，防止发生冲突，然后重启一遍模拟器。然后访问当前的github仓库，利用这里提供的boot.img文件(要导入到模拟器后用内置文件管理器浏览，并找到根目录下的Pictures共享文件夹，打开它)配置magisk。
 
